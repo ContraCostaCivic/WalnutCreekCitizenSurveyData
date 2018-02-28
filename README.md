@@ -6,4 +6,4 @@ Use Walnut Creek’s Citizen Survey data to make recommendations to City Staff a
 ## Resources
 2017-2018 City Council Priorities: http://walnut-creek.org/home/showdocument?id=12060
 
-2017 Citizen Survey results: http://walnut-creek.org/about-us/community-surveys/2017-citizen-survey (also includes links to historical surveys in 2012 and 2015 on the menu bar). The survey results on the site are in PDF format.
+2017 Citizen Survey results: http://walnut-creek.org/about-us/community-surveys/2017-citizen-survey (also includes links to historical surveys in 2012 and 2015 on the menu bar). The survey results on the site are in PDF format. (We have converted the 2017 data to Excel and placed it in this repository)
